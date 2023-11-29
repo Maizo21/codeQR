@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/codeQR/static/css/main.b617b232.css",
+    "main.js": "/codeQR/static/js/main.7b01cad1.js",
+    "index.html": "/codeQR/index.html",
+    "main.b617b232.css.map": "/codeQR/static/css/main.b617b232.css.map",
+    "main.7b01cad1.js.map": "/codeQR/static/js/main.7b01cad1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b617b232.css",
+    "static/js/main.7b01cad1.js"
+  ]
+}
