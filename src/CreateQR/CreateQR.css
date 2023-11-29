@@ -1,0 +1,57 @@
+section{
+    display: grid;
+    place-items: center;
+    gap: 20px;
+}
+
+form.create{
+    display: grid;
+    width: 100%;
+    max-width: 300px;
+}
+
+form.create input{
+    height: 30px;
+    padding: 5px;
+    border: none;
+    border-radius: 5px 5px 0 0;
+    outline: none;
+
+}
+
+form.create button{
+    padding: 10px;
+    background: #235299;
+    cursor: pointer;
+    color: #fff;
+    border: none;
+    border-radius: 0 0 5px 5px;
+    font-weight: bold;
+    transition: 0.3s linear;
+}
+
+form.create button:hover{
+    background: #1a3f7a;
+}
+
+.save-image{
+    background-color: #273e61;
+    color: #fff;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+    transition: 0.3s linear;
+}
+
+.save-image:hover{
+    background-color: #1a3f7a;
+}
+
+@media only screen and (min-width: 100px) and (max-width: 830px) {
+    .qr-created{
+        width: 250px;
+        height: 250px;
+    }
+}
